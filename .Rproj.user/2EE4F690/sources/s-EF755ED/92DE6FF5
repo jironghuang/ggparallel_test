@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548776804213.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "92DE6FF5",
+    "lastKnownWriteTime" : 1548777066,
+    "last_content_update" : 1548777066444,
+    "path" : "~/Desktop/github/ggparallel_test/ggparallel2.R",
+    "project_path" : "ggparallel2.R",
+    "properties" : {
+        "cursorPosition" : "41,55",
+        "scrollLine" : "15"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
